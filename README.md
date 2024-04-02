@@ -2,7 +2,7 @@
 
 This Python script converts text from a file into spoken word audio using OpenAI's GPT models. It supports standard and high-definition voice synthesis.
 
-##Requirements
+## Requirements
 
 - Python 3.6 or higher
 - A virtual environment (recommended)
